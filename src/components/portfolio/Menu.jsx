@@ -11,18 +11,21 @@ const Menu = [
       image: Work1,
       title: "Faculty Subject Expert Management System",
       category: "Web Development",
+      link: "https://github.com/pepwin123/Faculty-Subject-Expert-Management-System"
     },
     {
       id: 2,
       image: Work2,
       title: "PortFolio Website",
       category: "Web Development",
+      link:"https://portfolio-mohana-prawin.vercel.app"
     },
     {
       id: 3,
       image: Work3,
       title: "Payroll Management System",
       category: "Java",
+      link:"https://github.com/pepwin123/PayrollManagement"
     },
     {
         id: 4,
@@ -35,6 +38,7 @@ const Menu = [
       image: Work4,
       title: "Sign-in and Sign-up design",
       category: "UI Design",
+      link:" "
     },
     ,
     {
@@ -42,6 +46,7 @@ const Menu = [
       image: Work5,
       title: "Lamborghini car Poster",
       category: "UI Design",
+      link:" "
     },
   ];
   

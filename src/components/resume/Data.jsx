@@ -4,7 +4,7 @@ const Data = [
       category: "education",
       icon: "icon-graduation",
       year: "2022 - 2024",
-      title: "Post Graduate",
+      title: "Postgraduate",
       desc: "Kongu Engineering College",
     },
     {
@@ -12,7 +12,7 @@ const Data = [
       category: "education",
       icon: "icon-graduation",
       year: "2009 - 2013",
-      title: "Under Graduate",
+      title: "Undergraduate",
       desc: "The American College.",
       
     },
@@ -21,7 +21,7 @@ const Data = [
       category: "education",
       icon: "icon-graduation",
       year: "2018 - 2019",
-      title: "Higher Secondary School of Education - 12th",
+      title: "Higher Secondary School of Education - Grade 12",
       desc: "Keren Matriculation Higher Secondary School",
     },
     {
@@ -29,7 +29,7 @@ const Data = [
       category: "education",
       icon: "icon-graduation",
       year: "2016-2017",
-      title: "Secondary School of Education - 10th",
+      title: "Secondary School of Education - Grade 10",
       desc: "Keren Matriculation Higher Secondary School",
     },
     
