@@ -1,0 +1,36 @@
+/* Home.css */
+
+.topapp {
+ /* Replace with the actual path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    background-color:beige;
+  }
+  
+  .topappinside {
+    display: flex;
+    gap: 20px;
+    font-size: 24px; /* Set text size */
+    cursor: pointer;
+    transition: color 0.3s ease-in-out; 
+  }
+  
+  /* Style for individual icons (adjust as needed) */
+  .topappinside svg {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    /* Add more styling as needed */
+    transition: color 0.3s ease-in-out; 
+    color: dimgray;
+  }
+  
+
+  .topappinside svg:hover{
+    color: black;
+  }
