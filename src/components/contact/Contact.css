@@ -29,6 +29,9 @@
     top: 0;
     left: 0;
     width: 100%;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-top: 1.3rem;
     height: 100%;
     box-shadow: var(--shadow);
     background-color: var(--container-color);
@@ -36,7 +39,7 @@
     border: none;
     outline: none;
     border-radius: 1.87rem;
-    padding: 0.625rem 1.87rem;
+   
     z-index: 1;
 }
 
